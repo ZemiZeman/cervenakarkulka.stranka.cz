@@ -1,0 +1,121 @@
+body {
+    background-color: rgba(255, 0, 0, 0.603) ;
+}
+
+header {
+    background-color: royalblue;
+    padding: 55px;
+    text-align: center;
+    font-size: 40px;
+        color: red; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav {
+    float: left;
+    width: 20%;
+    height: 100%;
+    padding: 0px 0px;
+
+}
+.article {
+    float:right;
+    padding: 0px;
+    width: 80%;
+    height: 100%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.ullista {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: rgba(255, 0, 0, 0.603);
+    
+
+}
+
+li a {
+    display: block;
+    width: 80 px;
+    height: 400 px;
+    background-color: rgba(255, 0, 0, 0.603);
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 8px 16px;
+
+}
+li a:hover{
+    background: pink;
+    color: white;
+}
+
+
+li a:active{
+    background-color: rgba(83, 0, 0);
+    color: white;
+}
+#kulatePribeh{
+    margin-left: 54%;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 257px;
+    
+}
+#kulateKosik{
+    margin-left: 53%;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 170px;
+    height: 80px;
+
+}
+#kulateMista {
+    margin-left: 53%;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 25px; 
+    width: 180px;
+    height: 80px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.linkklasik {
+    background-color:rgba(255, 0, 0, 0.603) ;
+}
+
+.obrazek{
+    display: block;
+    margin-left: auto ;
+    
+}
+ol{
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
